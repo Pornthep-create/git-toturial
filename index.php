@@ -3,4 +3,12 @@
 
 <?php echo "sensei " ?>
 <?php echo "IROHA" ?>
-<?php echo "KOHARU" ?>
+<?php echo "HOSHINO" ?>
+<?php echo "HIBIKI" ?>
+<?php echo "TSUBAKI" ?>
+<?php echo "WAKAMO" ?>
+<?php echo "NERO" ?>
+<?php echo "YAKYAI" ?>
+<?php echo "FOOK" ?>
+<?php echo "ELYSIA" ?>
+
